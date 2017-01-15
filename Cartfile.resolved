@@ -1,0 +1,4 @@
+github "linkedin/LayoutKit" "4.0.1"
+github "antitypical/Result" "3.1.0"
+github "ReactiveCocoa/ReactiveSwift" "1.0.0"
+github "inamiy/ReactiveAutomaton" "0.2.0"

@@ -1,0 +1,2 @@
+github "inamiy/ReactiveAutomaton" ~> 0.2.0
+github "linkedin/LayoutKit" ~> 4.0.1
